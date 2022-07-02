@@ -228,26 +228,10 @@ BitcoinSPV is still a work-in-progress and will eventually undergo huge modifica
 * Support basic wallets with static keys.
 * Cope with [Core Data versioning](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CoreDataVersioning/Articles/Introduction.html).
 
-## License
 
-BitcoinSPV is released under the [GPLv3](/LICENSE).
+----
 
-Basically those willing to use BitcoinSPV for their software are forced to release their source as well, because the whole point is about keeping Bitcoin-related software as transparent as possible to increase both trust and community contributions.
-
-Nothing more is due as long as this rule of thumb is followed, still a note in the credits would be appreciated.
-
-## Credits
-
-* [bitcoinj](http://bitcoinj.github.io/) - The most popular Bitcoin library for Java.
-* [breadwallet](http://github.com/voisine/breadwallet) - An open source Bitcoin wallet for iOS.
-* [bip32.org](http://bip32.org) - Deterministic wallets for JavaScript.
-
-## Disclaimer
-
-The developer takes no responsibility for lost money or any damage due to BitcoinSPV regular usage or bugs. Use at your own risk.
-
-## Contacts
-
-Twitter: [@keeshux](https://twitter.com/keeshux)
-
-Website: [davidederosa.com](https://davidederosa.com)
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
